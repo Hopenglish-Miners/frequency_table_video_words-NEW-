@@ -25,8 +25,8 @@ It is just a code we can run in jupyter*
 There are 8039 words that is not in Dictionary.
 But there are many strange words (aka noisy) such as (for example):
 
-"/icons/text"'\'
-"30"'\'
+"/icons/text"\n
+"30"'\n
 ">michelleobamaspeech_eng"
 
 in postId = "4561"
