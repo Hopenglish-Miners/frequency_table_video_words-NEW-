@@ -9,7 +9,7 @@ Frequency Table for video words
 word         | frequency     | level
 ------------ | ------------- | -------------
 apple | 1000 | 1
-banana | 300 | Not in Dictionary
+banana | 300 | -1(if not in dictionary)
 .|.|.
 .|.|.
 .|.|.
